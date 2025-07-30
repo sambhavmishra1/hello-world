@@ -9,7 +9,7 @@ int main(){
     for(int i=0;i<n;i++){
         sum+=arr[i];
     }
-    int avg=(sum/n);
-    cout<<avg;
+    int a=(sum/n);
+    cout<<a;
     return 0;
 }
